@@ -1,0 +1,122 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 15.5.2015. 14:58:00
+
+BeginCmp
+TimeStamp = /55549965;
+Reference = 8x8;
+ValeurCmp = KWM-R30881XBB;
+IdModule  = KWM-R30881XBB;
+EndCmp
+
+BeginCmp
+TimeStamp = /55543CBF;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = SM2112L;
+EndCmp
+
+BeginCmp
+TimeStamp = /55543CE2;
+Reference = C2;
+ValeurCmp = CAPAPOL;
+IdModule  = SM1206POL;
+EndCmp
+
+BeginCmp
+TimeStamp = /555440AD;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = SMD403;
+EndCmp
+
+BeginCmp
+TimeStamp = /555440BC;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = SMD403;
+EndCmp
+
+BeginCmp
+TimeStamp = /55543F09;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /55543F18;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /55543F27;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /55543C7E;
+Reference = IC11;
+ValeurCmp = MAX7221CNG;
+IdModule  = DIP-24__400_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /55543CB0;
+Reference = IC21;
+ValeurCmp = CREG3-DPAK-LD1086DT33;
+IdModule  = DPAK3;
+EndCmp
+
+BeginCmp
+TimeStamp = /55543C97;
+Reference = MODUL11;
+ValeurCmp = ARDUINO_NANO2;
+IdModule  = ARDUINO_NANO2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55543CF1;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /55543E64;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /55543E73;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /55543E82;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5554428C;
+Reference = SW1;
+ValeurCmp = SWITCH_INV;
+IdModule  = SW_SPDT;
+EndCmp
+
+BeginCmp
+TimeStamp = /55544504;
+Reference = U1;
+ValeurCmp = SV;
+IdModule  = pin_array_4x2;
+EndCmp
+
+EndListe
